@@ -1,0 +1,11 @@
+{
+    "id": "pk.no_creeper_grief",
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 48
+        },
+        "description": "KawaMood's No Creeper Grief V.3.0.1 for Minecraft 1.21"
+    }
+}

@@ -1,0 +1,1 @@
+scoreboard objectives add dt.config dummy "Dynamic Torches Config"

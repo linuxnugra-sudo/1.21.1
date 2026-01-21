@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "hearths",
+  "version": "1.0.5",
+  "name": "Hearths",
+  "description": "A collection of very minor nether additions.",
+  "authors": [
+    "bebebea_loste"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/hearths"
+  },
+  "license": "N/A",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-api": "*",
+    "minecraft": ">=1.20"
+  }
+}

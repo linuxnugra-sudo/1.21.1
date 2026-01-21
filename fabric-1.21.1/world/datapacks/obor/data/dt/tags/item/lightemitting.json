@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:lava_bucket",
+    "minecraft:jack_o_lantern",
+    "minecraft:lantern",
+    "minecraft:end_rod",
+    "minecraft:shroomlight",
+    "minecraft:glowstone",
+    "minecraft:verdant_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:ochre_froglight",
+    "minecraft:sea_lantern",
+    "minecraft:beacon",
+    "minecraft:campfire",
+    "minecraft:torch",
+    "minecraft:glow_berries",
+    "glow_ink_sac"
+  ]
+}

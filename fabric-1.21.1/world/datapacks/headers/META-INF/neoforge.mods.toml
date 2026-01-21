@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="N/A"
+showAsResourcePack=false
+showAsDataPack=true
+
+[[mods]]
+  modId="hearths"
+  version="1.0.5"
+  displayName="Hearths"
+  displayURL="https://modrinth.com/datapack/hearths"
+  logoFile="pack.png"
+  authors="bebebea_loste"
+  description="A collection of very minor nether additions."
+
+  [[dependencies.hearths]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,)"
+    ordering="NONE"
+    side="BOTH"

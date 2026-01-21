@@ -1,0 +1,28 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="ARR"
+showAsResourcePack=false
+showAsDataPack=true
+
+[[mods]]
+  modId="explorify"
+  version="1.6.4"
+  displayName="Explorify"
+  displayURL="https://modrinth.com/datapack/explorify"
+  logoFile="pack.png"
+  authors="bebebea_loste"
+  description="A simplistic, vanilla-friendly collection of new structures."
+
+  [[dependencies.explorify]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,)"
+    ordering="NONE"
+    side="BOTH"
+  [[dependencies.explorify]]
+    modId="cristellib"
+    type="optional"
+    mandatory=false
+    versionRange="[1.0.0,)"
+    ordering="NONE"
+    side="BOTH"

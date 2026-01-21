@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "explorify",
+  "version": "1.6.4",
+  "name": "Explorify",
+  "description": "A simplistic, vanilla-friendly collection of new structures.",
+  "authors": [
+    "bebebea_loste"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/explorify"
+  },
+  "license": "ARR",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-api": "*",
+    "minecraft": ">=1.20"
+  },
+  "suggests": {
+    "cristellib": "*"
+  }
+}

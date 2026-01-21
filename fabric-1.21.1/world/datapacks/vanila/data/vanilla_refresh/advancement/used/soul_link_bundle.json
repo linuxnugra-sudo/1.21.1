@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": []
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:other/actions/erase_empty_bundle"
+  }
+}

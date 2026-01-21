@@ -1,0 +1,35 @@
+{
+	"pack": {
+		"description": "\u00A77Hearths\u00A7r\nNether additions",
+		"version": "1.0.5",
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			512
+		],
+		"min_format": 15,
+		"max_format": 512
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [
+					41,
+					512
+				],
+				"min_format": 41,
+				"max_format": 512,
+				"directory": "f41"
+			},
+			{
+				"formats": [
+					61,
+					512
+				],
+				"min_format": 61,
+				"max_format": 512,
+				"directory": "f61"
+			}
+		]
+	}
+}

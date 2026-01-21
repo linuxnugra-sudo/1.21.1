@@ -1,0 +1,15 @@
+{
+    "values": [
+      "minecraft:player",
+      "minecraft:item",
+      "minecraft:blaze",
+      "minecraft:glow_squid",
+      "minecraft:creeper",
+      "minecraft:arrow",
+      "minecraft:small_fireball",
+      "minecraft:fireball",
+      "minecraft:magma_cube",
+      "minecraft:spectral_arrow"
+    ]
+  }
+  

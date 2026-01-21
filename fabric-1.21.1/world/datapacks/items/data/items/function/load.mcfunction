@@ -1,0 +1,2 @@
+# Message
+tellraw @a ["",{"text":"[","color":"gold"},{"text":"RID","color":"yellow"},{"text":"]","color":"gold"},{"text":" Reloaded! ","color":"green"},{"text": "ℹ","color": "blue","clickEvent": {"action": "open_url","value": "https://planetminecraft.com/data-pack/better-item-dropping"}}]

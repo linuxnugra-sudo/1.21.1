@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enchanted_item",
+      "conditions": {
+      }
+    }
+  },
+  "parent": "vanilla_refresh:player/enchanted_item"
+}
